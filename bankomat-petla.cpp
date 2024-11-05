@@ -1,6 +1,6 @@
 #include <iostream>
 #include <sqlite3.h>
-
+//gg
 // Funkcja obsługująca komendę WPŁATA
 void wpłata(sqlite3 *db, double kwota, int użytkownik_id) {
     // Tutaj implementuj logikę dodawania kwoty do konta użytkownika w bazie danych
